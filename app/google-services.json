@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464460749993",
+    "firebase_url": "https://tanker-10436.firebaseio.com",
+    "project_id": "tanker-10436",
+    "storage_bucket": "tanker-10436.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464460749993:android:80eb25ec1a3baad20e1db8",
+        "android_client_info": {
+          "package_name": "ru.tanker.tankerlocator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464460749993-6c2c85o2qhl857hn08u9g7gumavjejru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWdYug5sXig1BQ57zVDS1e0G-j2CNu4T4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464460749993-6c2c85o2qhl857hn08u9g7gumavjejru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
